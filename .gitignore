@@ -29,3 +29,4 @@ test/checkpoint
 *egg-info
 test/config.json
 test/ctc-vocab.json
+pretrained_model/data/
