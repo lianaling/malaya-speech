@@ -1,1 +1,13 @@
-
+pretrained-model/data/LibriSpeech filter=lfs diff=lfs merge=lfs -text
+pretrained-model/data/ls-audios.txt filter=lfs diff=lfs merge=lfs -text
+pretrained-model/data/ls-audios-dev.txt filter=lfs diff=lfs merge=lfs -text
+pretrained-model/data/ls-dev-clean.csv filter=lfs diff=lfs merge=lfs -text
+pretrained-model/data/ls-label-paths.txt filter=lfs diff=lfs merge=lfs -text
+pretrained-model/data/ls-labels-dev.txt filter=lfs diff=lfs merge=lfs -text
+pretrained-model/data/ls-train-clean-100.csv filter=lfs diff=lfs merge=lfs -text
+pretrained-model/data/prepare-ls-dev-clean-dataset.ipynb filter=lfs diff=lfs merge=lfs -text
+pretrained-model/data/salina filter=lfs diff=lfs merge=lfs -text
+pretrained-model/data/salina.json filter=lfs diff=lfs merge=lfs -text
+pretrained-model/data/ls-label-paths-dev.txt filter=lfs diff=lfs merge=lfs -text
+pretrained-model/data/ls-labels.txt filter=lfs diff=lfs merge=lfs -text
+pretrained-model/data/prepare-ls-train-clean-100-dataset.ipynb filter=lfs diff=lfs merge=lfs -text
